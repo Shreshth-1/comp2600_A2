@@ -17,6 +17,6 @@ CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
-
+THEME = "themes/Flex"
 # DISQUS_SITENAME = ""
 # GOOGLE_ANALYTICS = ""
